@@ -161,7 +161,7 @@ const MainFlow = () => {
           className="m-2 bg-white text-blue-500 border border-blue-500 hover:bg-blue-700 hover:text-white font-bold py-2 px-4 rounded"
           onClick={onSave}
         >
-          Save Flow
+          Save changes
         </button>
       </div>
       <div className="flex-grow h-screen" ref={reactFlowWrapper}>
