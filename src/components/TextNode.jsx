@@ -17,7 +17,7 @@ function TextNode({ data, selected }) {
               alt="Message Icon" 
               className="mr-1"
             />
-            send message 
+            Send Message 
           </div>
           <img 
             style={{height: "10px", width: "10px"}} 
